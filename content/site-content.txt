@@ -1,0 +1,127 @@
+PRODUCT
+
+Name: Emerald Bunny
+Description: Soft emerald chenille crochet bunny.
+Price:
+Etsy URL:
+Image: assets/images/products/01-emerald-green-crochet-bunny.webp
+
+---
+
+PRODUCT
+
+Name: Green Bunny Pair
+Description: Dark green and pale sage plush crochet bunnies.
+Price:
+Etsy URL:
+Image: assets/images/products/02-plush-green-bunny-pair.webp
+
+---
+
+PRODUCT
+
+Name: Red Crochet Dress
+Description: Red open stitch crochet mini dress.
+Price:
+Etsy URL:
+Image: assets/images/products/03-red-crochet-mini-dress.webp
+
+---
+
+PRODUCT
+
+Name: Chunky Multicolour Bear
+Description: Chunky blue, orange and cream crochet bear.
+Price:
+Etsy URL:
+Image: assets/images/products/04-chunky-multicolor-crochet-bear.webp
+
+---
+
+PRODUCT
+
+Name: Teal Plush Keychain
+Description: Round teal crochet plush keychain.
+Price:
+Etsy URL:
+Image: assets/images/products/05-teal-crochet-plush-keychain.webp
+
+---
+
+PRODUCT
+
+Name: Lime Axolotl
+Description: Lime green plush axolotl with coral gills.
+Price:
+Etsy URL:
+Image: assets/images/products/06-lime-green-plush-axolotl.webp
+
+---
+
+PRODUCT
+
+Name: Speckled Halter Top
+Description: Speckled cream crochet halter top.
+Price:
+Etsy URL:
+Image: assets/images/products/07-speckled-crochet-halter-top.webp
+
+---
+
+PRODUCT
+
+Name: Gummy Bear Duo
+Description: Small caramel and lime chenille gummy bears.
+Price:
+Etsy URL:
+Image: assets/images/products/08-chenille-gummy-bear-duo.webp
+
+---
+
+PRODUCT
+
+Name: Crochet Scrunchies
+Description: Ruffled crochet scrunchies in assorted colours.
+Price:
+Etsy URL:
+Image: assets/images/products/09-colorful-crochet-scrunchies.webp
+
+---
+
+PRODUCT
+
+Name: Blue Crochet Set
+Description: Blue halter top and ruffled skirt set.
+Price:
+Etsy URL:
+Image: assets/images/products/10-blue-crochet-halter-set.webp
+
+---
+
+PRODUCT
+
+Name: Hanging Chick Ornament
+Description: White and grey hanging crochet chick ornament.
+Price:
+Etsy URL:
+Image: assets/images/products/11-hanging-crochet-chick-ornament.webp
+
+---
+
+PRODUCT
+
+Name: Axolotl Duo
+Description: Two pink crochet axolotls in complementary shades.
+Price:
+Etsy URL:
+Image: assets/images/products/12-crochet-axolotl-duo.webp
+
+---
+
+PRODUCT
+
+Name: Iridescent Purple Cat
+Description: Purple plush crochet cat photographed against an iridescent backdrop.
+Price:
+Etsy URL:
+Image: assets/images/products/13-iridescent-purple-plush-cat.webp
